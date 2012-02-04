@@ -1,0 +1,84 @@
+{{Languages|Candy Cruncher}}
+==Preview==
+<p>Check out the fast and furious game play in Candy Cruncher!</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Check out the fast and furious game play in Candy Cruncher, Pyrogon`s first game to be published by LGP! Don`t be deceived by its simplicity - only a master Cruncher can eat candy while avoiding the Dreaded Black Jellybeans!<br /><br />Move the space around the board, completing rows and columns of identical candies to make them crunch away! You only have a limited amount of time, so plan ahead and don`t get trapped by the immovable Black Jellybeans!<br /><br />Crunch all you want, but beware the time limit!</p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demofiles.linuxgamepublishing.com/candycruncher/">Demo for Candy Cruncher</a>, <a href="http://updatefiles.linuxgamepublishing.com/candycruncher/">Updates for the Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/candycruncher/">Updates for Cany Cruncher</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>brand new<br /></td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>166 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 4 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>32 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>20 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+
